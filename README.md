@@ -1,6 +1,8 @@
 ## Si Ting Chen    
 
-##### [My email](sitingc4318@hstat.org)
+##### My email: **sitingc4318@hstat.org**
+
+[My Github](https://github.com/sitingc4318/about-me)
 
 HIGH SCHOOL OF TELECOMMUNICATION ART AND TECHNOLOGY
  
