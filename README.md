@@ -1,17 +1,24 @@
-Si Ting Chen
-Email:sitingc4318@hstat.org
+## Si Ting Chen    
+
+##### [My email](sitingc4318@hstat.org)
 
 HIGH SCHOOL OF TELECOMMUNICATION ART AND TECHNOLOGY
  
-Hi! my name is Si Ting Chen. I am 16 years old and I live in brooklyn. This is the third year i'm in this school and I am in third year of the SEP program. 
+Hi! my name is Si Ting Chen.   
+* About me:
+  * My birthday is June 1
+  * I am 16 years old 
+  * I live in brooklyn. 
+  * This is the third year I'm in this school 
+  * I am in third year of the SEP program. 
 
-Schedule:
+**Schedule**:
 
-1)Physics
-2)English
-3)SEP
-4)Algebra 2
-5)U.S. History
-6)Spanish
-7)Lunch
-8)Gym
+1) _Physics_
+2) _English_
+3) _SEP_
+4) _Algebra 2_
+5) _U.S. History_
+6) _Spanish_
+7) _Lunch_
+8) _Gym_
